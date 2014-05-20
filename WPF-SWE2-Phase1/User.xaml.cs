@@ -15,7 +15,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF_SWE2_Phase1
+namespace WPF_SWE2_Phase1.Logic_Layer
 {
     /// <summary>
     /// Interaction logic for User.xaml

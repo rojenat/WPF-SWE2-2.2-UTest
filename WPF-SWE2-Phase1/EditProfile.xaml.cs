@@ -15,7 +15,7 @@ using System.Windows.Shapes;
 using System.Data.Entity;
 using System.Data;
 
-namespace WPF_SWE2_Phase1
+namespace WPF_SWE2_Phase1.Logic_Layer
 {
     /// <summary>
     /// Interaction logic for EditProfile.xaml

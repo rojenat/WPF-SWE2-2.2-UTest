@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WPF_SWE2_Phase1
+namespace WPF_SWE2_Phase1.Logic_Layer
 {
     using System;
     using System.Data.Entity;

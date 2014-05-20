@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.Configuration;
 
-namespace WPF_SWE2_Phase1
+namespace WPF_SWE2_Phase1.Logic_Layer
 {
     /// <summary>
     /// Interaction logic for Login.xaml

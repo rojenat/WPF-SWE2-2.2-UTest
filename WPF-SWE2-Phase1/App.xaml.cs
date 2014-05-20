@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace WPF_SWE2_Phase1
+namespace WPF_SWE2_Phase1.Logic_Layer
 {
     /// <summary>
     /// Interaction logic for App.xaml
